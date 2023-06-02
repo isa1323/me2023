@@ -2,5 +2,9 @@
     width: 300px!important;
     height: 200px !important;
 
+}
 
+.div-flores{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
